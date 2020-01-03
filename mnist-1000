@@ -1,0 +1,901 @@
+(1000, 784)
+(1000,)
+Epoch 0, time = 3s, loss_lab = 0.3261, loss_unl = 0.1199, train err = 0.0959, train err2 = 0.0465,gen loss = 2002.6175,test err = 0.1078
+(1000, 784)
+(1000,)
+Epoch 1, time = 3s, loss_lab = 0.0454, loss_unl = 0.0941, train err = 0.0119, train err2 = 0.0193,gen loss = 1805.4138,test err = 0.0944
+(1000, 784)
+(1000,)
+Epoch 2, time = 3s, loss_lab = 0.0287, loss_unl = 0.1284, train err = 0.0070, train err2 = 0.0294,gen loss = 1247.9486,test err = 0.0830
+(1000, 784)
+(1000,)
+Epoch 3, time = 3s, loss_lab = 0.0208, loss_unl = 0.1487, train err = 0.0051, train err2 = 0.0358,gen loss = 1375.3802,test err = 0.0747
+(1000, 784)
+(1000,)
+Epoch 4, time = 3s, loss_lab = 0.0173, loss_unl = 0.1967, train err = 0.0041, train err2 = 0.0479,gen loss = 1098.8687,test err = 0.0672
+(1000, 784)
+(1000,)
+Epoch 5, time = 3s, loss_lab = 0.0134, loss_unl = 0.2491, train err = 0.0027, train err2 = 0.0713,gen loss = 972.6741,test err = 0.0613
+(1000, 784)
+(1000,)
+Epoch 6, time = 3s, loss_lab = 0.0094, loss_unl = 0.2998, train err = 0.0018, train err2 = 0.0923,gen loss = 833.9298,test err = 0.0565
+(1000, 784)
+(1000,)
+Epoch 7, time = 3s, loss_lab = 0.0084, loss_unl = 0.3240, train err = 0.0017, train err2 = 0.1061,gen loss = 846.8640,test err = 0.0523
+(1000, 784)
+(1000,)
+Epoch 8, time = 3s, loss_lab = 0.0058, loss_unl = 0.3224, train err = 0.0008, train err2 = 0.1026,gen loss = 1037.8924,test err = 0.0479
+(1000, 784)
+(1000,)
+Epoch 9, time = 3s, loss_lab = 0.0059, loss_unl = 0.3101, train err = 0.0012, train err2 = 0.0985,gen loss = 1474.2977,test err = 0.0443
+(1000, 784)
+(1000,)
+Epoch 10, time = 3s, loss_lab = 0.0049, loss_unl = 0.3359, train err = 0.0008, train err2 = 0.1103,gen loss = 1188.7377,test err = 0.0414
+(1000, 784)
+(1000,)
+Epoch 11, time = 3s, loss_lab = 0.0048, loss_unl = 0.3364, train err = 0.0009, train err2 = 0.1003,gen loss = 1278.5913,test err = 0.0392
+(1000, 784)
+(1000,)
+Epoch 12, time = 3s, loss_lab = 0.0044, loss_unl = 0.2129, train err = 0.0009, train err2 = 0.0589,gen loss = 5841.0475,test err = 0.0378
+(1000, 784)
+(1000,)
+Epoch 13, time = 3s, loss_lab = 0.0033, loss_unl = 0.3130, train err = 0.0005, train err2 = 0.0982,gen loss = 2138.6528,test err = 0.0352
+(1000, 784)
+(1000,)
+Epoch 14, time = 3s, loss_lab = 0.0030, loss_unl = 0.3388, train err = 0.0004, train err2 = 0.1078,gen loss = 2000.3635,test err = 0.0334
+(1000, 784)
+(1000,)
+Epoch 15, time = 3s, loss_lab = 0.0031, loss_unl = 0.3487, train err = 0.0005, train err2 = 0.1014,gen loss = 1710.8029,test err = 0.0323
+(1000, 784)
+(1000,)
+Epoch 16, time = 3s, loss_lab = 0.0029, loss_unl = 0.3489, train err = 0.0004, train err2 = 0.1014,gen loss = 1816.1486,test err = 0.0299
+(1000, 784)
+(1000,)
+Epoch 17, time = 3s, loss_lab = 0.0027, loss_unl = 0.3557, train err = 0.0004, train err2 = 0.1085,gen loss = 1750.4226,test err = 0.0283
+(1000, 784)
+(1000,)
+Epoch 18, time = 3s, loss_lab = 0.0025, loss_unl = 0.3523, train err = 0.0004, train err2 = 0.1056,gen loss = 1758.4588,test err = 0.0279
+(1000, 784)
+(1000,)
+Epoch 19, time = 3s, loss_lab = 0.0024, loss_unl = 0.3725, train err = 0.0003, train err2 = 0.1087,gen loss = 1462.7200,test err = 0.0266
+(1000, 784)
+(1000,)
+Epoch 20, time = 3s, loss_lab = 0.0027, loss_unl = 0.3594, train err = 0.0004, train err2 = 0.1048,gen loss = 1610.1408,test err = 0.0257
+(1000, 784)
+(1000,)
+Epoch 21, time = 3s, loss_lab = 0.0021, loss_unl = 0.3771, train err = 0.0003, train err2 = 0.1150,gen loss = 1356.9846,test err = 0.0248
+(1000, 784)
+(1000,)
+Epoch 22, time = 3s, loss_lab = 0.0022, loss_unl = 0.3761, train err = 0.0002, train err2 = 0.1144,gen loss = 1386.1051,test err = 0.0239
+(1000, 784)
+(1000,)
+Epoch 23, time = 3s, loss_lab = 0.0024, loss_unl = 0.3833, train err = 0.0003, train err2 = 0.1125,gen loss = 1150.1888,test err = 0.0227
+(1000, 784)
+(1000,)
+Epoch 24, time = 3s, loss_lab = 0.0020, loss_unl = 0.3802, train err = 0.0002, train err2 = 0.1110,gen loss = 1182.7384,test err = 0.0219
+(1000, 784)
+(1000,)
+Epoch 25, time = 3s, loss_lab = 0.0019, loss_unl = 0.3792, train err = 0.0002, train err2 = 0.1125,gen loss = 1191.4535,test err = 0.0217
+(1000, 784)
+(1000,)
+Epoch 26, time = 3s, loss_lab = 0.0018, loss_unl = 0.3810, train err = 0.0002, train err2 = 0.1162,gen loss = 1161.0576,test err = 0.0207
+(1000, 784)
+(1000,)
+Epoch 27, time = 3s, loss_lab = 0.0018, loss_unl = 0.3817, train err = 0.0002, train err2 = 0.1144,gen loss = 1102.4535,test err = 0.0200
+(1000, 784)
+(1000,)
+Epoch 28, time = 3s, loss_lab = 0.0018, loss_unl = 0.3823, train err = 0.0002, train err2 = 0.1134,gen loss = 1101.9506,test err = 0.0190
+(1000, 784)
+(1000,)
+Epoch 29, time = 3s, loss_lab = 0.0019, loss_unl = 0.3832, train err = 0.0003, train err2 = 0.1173,gen loss = 1093.6128,test err = 0.0185
+(1000, 784)
+(1000,)
+Epoch 30, time = 3s, loss_lab = 0.0017, loss_unl = 0.3821, train err = 0.0003, train err2 = 0.1175,gen loss = 1059.3589,test err = 0.0179
+(1000, 784)
+(1000,)
+Epoch 31, time = 3s, loss_lab = 0.0020, loss_unl = 0.3839, train err = 0.0002, train err2 = 0.1202,gen loss = 1053.4680,test err = 0.0172
+(1000, 784)
+(1000,)
+Epoch 32, time = 3s, loss_lab = 0.0016, loss_unl = 0.3836, train err = 0.0002, train err2 = 0.1161,gen loss = 997.3173,test err = 0.0167
+(1000, 784)
+(1000,)
+Epoch 33, time = 3s, loss_lab = 0.0016, loss_unl = 0.3807, train err = 0.0003, train err2 = 0.1156,gen loss = 1003.0552,test err = 0.0164
+(1000, 784)
+(1000,)
+Epoch 34, time = 3s, loss_lab = 0.0013, loss_unl = 0.3798, train err = 0.0001, train err2 = 0.1151,gen loss = 999.6706,test err = 0.0157
+(1000, 784)
+(1000,)
+Epoch 35, time = 3s, loss_lab = 0.0016, loss_unl = 0.3836, train err = 0.0002, train err2 = 0.1186,gen loss = 955.4045,test err = 0.0154
+(1000, 784)
+(1000,)
+Epoch 36, time = 3s, loss_lab = 0.0014, loss_unl = 0.3800, train err = 0.0001, train err2 = 0.1128,gen loss = 933.4948,test err = 0.0154
+(1000, 784)
+(1000,)
+Epoch 37, time = 3s, loss_lab = 0.0014, loss_unl = 0.3779, train err = 0.0001, train err2 = 0.1148,gen loss = 946.7135,test err = 0.0151
+(1000, 784)
+(1000,)
+Epoch 38, time = 3s, loss_lab = 0.0014, loss_unl = 0.3807, train err = 0.0001, train err2 = 0.1165,gen loss = 920.6629,test err = 0.0145
+(1000, 784)
+(1000,)
+Epoch 39, time = 3s, loss_lab = 0.0014, loss_unl = 0.3825, train err = 0.0001, train err2 = 0.1179,gen loss = 887.3278,test err = 0.0141
+(1000, 784)
+(1000,)
+Epoch 40, time = 3s, loss_lab = 0.0014, loss_unl = 0.3825, train err = 0.0002, train err2 = 0.1153,gen loss = 872.6517,test err = 0.0136
+(1000, 784)
+(1000,)
+Epoch 41, time = 3s, loss_lab = 0.0013, loss_unl = 0.3779, train err = 0.0001, train err2 = 0.1163,gen loss = 855.3856,test err = 0.0134
+(1000, 784)
+(1000,)
+Epoch 42, time = 3s, loss_lab = 0.0014, loss_unl = 0.3757, train err = 0.0002, train err2 = 0.1137,gen loss = 848.0568,test err = 0.0131
+(1000, 784)
+(1000,)
+Epoch 43, time = 3s, loss_lab = 0.0013, loss_unl = 0.3788, train err = 0.0001, train err2 = 0.1204,gen loss = 829.5990,test err = 0.0129
+(1000, 784)
+(1000,)
+Epoch 44, time = 3s, loss_lab = 0.0012, loss_unl = 0.3760, train err = 0.0001, train err2 = 0.1133,gen loss = 822.0220,test err = 0.0128
+(1000, 784)
+(1000,)
+Epoch 45, time = 3s, loss_lab = 0.0012, loss_unl = 0.3759, train err = 0.0002, train err2 = 0.1136,gen loss = 790.0856,test err = 0.0129
+(1000, 784)
+(1000,)
+Epoch 46, time = 3s, loss_lab = 0.0011, loss_unl = 0.3754, train err = 0.0001, train err2 = 0.1111,gen loss = 802.3858,test err = 0.0128
+(1000, 784)
+(1000,)
+Epoch 47, time = 3s, loss_lab = 0.0012, loss_unl = 0.3702, train err = 0.0002, train err2 = 0.1113,gen loss = 759.5506,test err = 0.0128
+(1000, 784)
+(1000,)
+Epoch 48, time = 3s, loss_lab = 0.0012, loss_unl = 0.3708, train err = 0.0001, train err2 = 0.1100,gen loss = 748.2472,test err = 0.0126
+(1000, 784)
+(1000,)
+Epoch 49, time = 3s, loss_lab = 0.0010, loss_unl = 0.3673, train err = 0.0001, train err2 = 0.1068,gen loss = 755.0465,test err = 0.0124
+(1000, 784)
+(1000,)
+Epoch 50, time = 3s, loss_lab = 0.0013, loss_unl = 0.3662, train err = 0.0002, train err2 = 0.1071,gen loss = 753.3976,test err = 0.0126
+(1000, 784)
+(1000,)
+Epoch 51, time = 3s, loss_lab = 0.0011, loss_unl = 0.3628, train err = 0.0001, train err2 = 0.1088,gen loss = 754.8802,test err = 0.0123
+(1000, 784)
+(1000,)
+Epoch 52, time = 3s, loss_lab = 0.0011, loss_unl = 0.3658, train err = 0.0001, train err2 = 0.1088,gen loss = 744.0526,test err = 0.0121
+(1000, 784)
+(1000,)
+Epoch 53, time = 3s, loss_lab = 0.0011, loss_unl = 0.3677, train err = 0.0001, train err2 = 0.1082,gen loss = 717.8970,test err = 0.0120
+(1000, 784)
+(1000,)
+Epoch 54, time = 3s, loss_lab = 0.0011, loss_unl = 0.3625, train err = 0.0001, train err2 = 0.1073,gen loss = 710.5354,test err = 0.0120
+(1000, 784)
+(1000,)
+Epoch 55, time = 3s, loss_lab = 0.0011, loss_unl = 0.3634, train err = 0.0001, train err2 = 0.1105,gen loss = 718.5730,test err = 0.0120
+(1000, 784)
+(1000,)
+Epoch 56, time = 3s, loss_lab = 0.0013, loss_unl = 0.3605, train err = 0.0001, train err2 = 0.1063,gen loss = 717.0418,test err = 0.0118
+(1000, 784)
+(1000,)
+Epoch 57, time = 3s, loss_lab = 0.0011, loss_unl = 0.3590, train err = 0.0001, train err2 = 0.1051,gen loss = 692.8746,test err = 0.0113
+(1000, 784)
+(1000,)
+Epoch 58, time = 3s, loss_lab = 0.0010, loss_unl = 0.3566, train err = 0.0001, train err2 = 0.1020,gen loss = 686.2484,test err = 0.0111
+(1000, 784)
+(1000,)
+Epoch 59, time = 3s, loss_lab = 0.0010, loss_unl = 0.3565, train err = 0.0001, train err2 = 0.1047,gen loss = 682.5001,test err = 0.0109
+(1000, 784)
+(1000,)
+Epoch 60, time = 3s, loss_lab = 0.0014, loss_unl = 0.3541, train err = 0.0001, train err2 = 0.1040,gen loss = 702.6300,test err = 0.0109
+(1000, 784)
+(1000,)
+Epoch 61, time = 3s, loss_lab = 0.0009, loss_unl = 0.3542, train err = 0.0000, train err2 = 0.1016,gen loss = 700.2631,test err = 0.0109
+(1000, 784)
+(1000,)
+Epoch 62, time = 3s, loss_lab = 0.0011, loss_unl = 0.3621, train err = 0.0001, train err2 = 0.1087,gen loss = 658.7020,test err = 0.0111
+(1000, 784)
+(1000,)
+Epoch 63, time = 3s, loss_lab = 0.0011, loss_unl = 0.3558, train err = 0.0001, train err2 = 0.1057,gen loss = 670.5426,test err = 0.0108
+(1000, 784)
+(1000,)
+Epoch 64, time = 3s, loss_lab = 0.0011, loss_unl = 0.3610, train err = 0.0001, train err2 = 0.1062,gen loss = 647.0236,test err = 0.0107
+(1000, 784)
+(1000,)
+Epoch 65, time = 3s, loss_lab = 0.0011, loss_unl = 0.3615, train err = 0.0001, train err2 = 0.1070,gen loss = 644.4414,test err = 0.0107
+(1000, 784)
+(1000,)
+Epoch 66, time = 3s, loss_lab = 0.0010, loss_unl = 0.3593, train err = 0.0001, train err2 = 0.1085,gen loss = 622.2637,test err = 0.0105
+(1000, 784)
+(1000,)
+Epoch 67, time = 3s, loss_lab = 0.0011, loss_unl = 0.3579, train err = 0.0001, train err2 = 0.1069,gen loss = 624.6257,test err = 0.0103
+(1000, 784)
+(1000,)
+Epoch 68, time = 3s, loss_lab = 0.0010, loss_unl = 0.3531, train err = 0.0000, train err2 = 0.1072,gen loss = 629.9008,test err = 0.0101
+(1000, 784)
+(1000,)
+Epoch 69, time = 3s, loss_lab = 0.0010, loss_unl = 0.3590, train err = 0.0001, train err2 = 0.1065,gen loss = 638.5171,test err = 0.0100
+(1000, 784)
+(1000,)
+Epoch 70, time = 3s, loss_lab = 0.0009, loss_unl = 0.3536, train err = 0.0001, train err2 = 0.1041,gen loss = 622.6678,test err = 0.0099
+(1000, 784)
+(1000,)
+Epoch 71, time = 3s, loss_lab = 0.0009, loss_unl = 0.3529, train err = 0.0000, train err2 = 0.1032,gen loss = 626.5749,test err = 0.0099
+(1000, 784)
+(1000,)
+Epoch 72, time = 3s, loss_lab = 0.0008, loss_unl = 0.3510, train err = 0.0001, train err2 = 0.1039,gen loss = 614.2770,test err = 0.0100
+(1000, 784)
+(1000,)
+Epoch 73, time = 3s, loss_lab = 0.0010, loss_unl = 0.3525, train err = 0.0001, train err2 = 0.1059,gen loss = 618.4898,test err = 0.0099
+(1000, 784)
+(1000,)
+Epoch 74, time = 3s, loss_lab = 0.0009, loss_unl = 0.3529, train err = 0.0001, train err2 = 0.1045,gen loss = 612.8611,test err = 0.0100
+(1000, 784)
+(1000,)
+Epoch 75, time = 3s, loss_lab = 0.0011, loss_unl = 0.3557, train err = 0.0001, train err2 = 0.1062,gen loss = 586.1627,test err = 0.0099
+(1000, 784)
+(1000,)
+Epoch 76, time = 3s, loss_lab = 0.0010, loss_unl = 0.3519, train err = 0.0001, train err2 = 0.1079,gen loss = 591.1238,test err = 0.0098
+(1000, 784)
+(1000,)
+Epoch 77, time = 3s, loss_lab = 0.0010, loss_unl = 0.3534, train err = 0.0001, train err2 = 0.1054,gen loss = 616.8384,test err = 0.0095
+(1000, 784)
+(1000,)
+Epoch 78, time = 3s, loss_lab = 0.0010, loss_unl = 0.3523, train err = 0.0001, train err2 = 0.1028,gen loss = 598.0249,test err = 0.0096
+(1000, 784)
+(1000,)
+Epoch 79, time = 3s, loss_lab = 0.0010, loss_unl = 0.3524, train err = 0.0001, train err2 = 0.1063,gen loss = 569.1412,test err = 0.0096
+(1000, 784)
+(1000,)
+Epoch 80, time = 3s, loss_lab = 0.0011, loss_unl = 0.3553, train err = 0.0002, train err2 = 0.1063,gen loss = 560.1579,test err = 0.0097
+(1000, 784)
+(1000,)
+Epoch 81, time = 3s, loss_lab = 0.0008, loss_unl = 0.3443, train err = 0.0000, train err2 = 0.0987,gen loss = 578.8738,test err = 0.0096
+(1000, 784)
+(1000,)
+Epoch 82, time = 3s, loss_lab = 0.0008, loss_unl = 0.3515, train err = 0.0000, train err2 = 0.1025,gen loss = 566.9255,test err = 0.0097
+(1000, 784)
+(1000,)
+Epoch 83, time = 3s, loss_lab = 0.0008, loss_unl = 0.3460, train err = 0.0001, train err2 = 0.0998,gen loss = 555.7809,test err = 0.0098
+(1000, 784)
+(1000,)
+Epoch 84, time = 3s, loss_lab = 0.0007, loss_unl = 0.3475, train err = 0.0000, train err2 = 0.1027,gen loss = 552.2721,test err = 0.0098
+(1000, 784)
+(1000,)
+Epoch 85, time = 3s, loss_lab = 0.0008, loss_unl = 0.3522, train err = 0.0001, train err2 = 0.1042,gen loss = 545.2753,test err = 0.0096
+(1000, 784)
+(1000,)
+Epoch 86, time = 3s, loss_lab = 0.0008, loss_unl = 0.3453, train err = 0.0000, train err2 = 0.0999,gen loss = 558.5655,test err = 0.0094
+(1000, 784)
+(1000,)
+Epoch 87, time = 3s, loss_lab = 0.0009, loss_unl = 0.3451, train err = 0.0001, train err2 = 0.0999,gen loss = 541.8949,test err = 0.0093
+(1000, 784)
+(1000,)
+Epoch 88, time = 3s, loss_lab = 0.0007, loss_unl = 0.3422, train err = 0.0000, train err2 = 0.0981,gen loss = 541.4899,test err = 0.0092
+(1000, 784)
+(1000,)
+Epoch 89, time = 3s, loss_lab = 0.0010, loss_unl = 0.3443, train err = 0.0001, train err2 = 0.0998,gen loss = 521.5510,test err = 0.0092
+(1000, 784)
+(1000,)
+Epoch 90, time = 3s, loss_lab = 0.0009, loss_unl = 0.3442, train err = 0.0001, train err2 = 0.0997,gen loss = 509.9686,test err = 0.0093
+(1000, 784)
+(1000,)
+Epoch 91, time = 3s, loss_lab = 0.0008, loss_unl = 0.3405, train err = 0.0000, train err2 = 0.0982,gen loss = 524.6447,test err = 0.0092
+(1000, 784)
+(1000,)
+Epoch 92, time = 3s, loss_lab = 0.0007, loss_unl = 0.3432, train err = 0.0001, train err2 = 0.0993,gen loss = 514.9134,test err = 0.0092
+(1000, 784)
+(1000,)
+Epoch 93, time = 3s, loss_lab = 0.0009, loss_unl = 0.3395, train err = 0.0000, train err2 = 0.1002,gen loss = 511.0572,test err = 0.0090
+(1000, 784)
+(1000,)
+Epoch 94, time = 3s, loss_lab = 0.0009, loss_unl = 0.3372, train err = 0.0001, train err2 = 0.0996,gen loss = 516.4685,test err = 0.0090
+(1000, 784)
+(1000,)
+Epoch 95, time = 3s, loss_lab = 0.0007, loss_unl = 0.3363, train err = 0.0000, train err2 = 0.1001,gen loss = 499.0889,test err = 0.0090
+(1000, 784)
+(1000,)
+Epoch 96, time = 3s, loss_lab = 0.0007, loss_unl = 0.3348, train err = 0.0001, train err2 = 0.0984,gen loss = 508.0318,test err = 0.0092
+(1000, 784)
+(1000,)
+Epoch 97, time = 3s, loss_lab = 0.0007, loss_unl = 0.3344, train err = 0.0001, train err2 = 0.0985,gen loss = 518.4212,test err = 0.0090
+(1000, 784)
+(1000,)
+Epoch 98, time = 3s, loss_lab = 0.0008, loss_unl = 0.3320, train err = 0.0000, train err2 = 0.0971,gen loss = 508.8132,test err = 0.0089
+(1000, 784)
+(1000,)
+Epoch 99, time = 3s, loss_lab = 0.0007, loss_unl = 0.3340, train err = 0.0001, train err2 = 0.0998,gen loss = 492.2718,test err = 0.0090
+(57024, 784)
+(57024,)
+Epoch 100, time = 3s, loss_lab = 0.0037, loss_unl = 0.3304, train err = 0.0007, train err2 = 0.1043,gen loss = 496.0770,test err = 0.0088
+(57024, 784)
+(57024,)
+Epoch 101, time = 3s, loss_lab = 0.0032, loss_unl = 0.3293, train err = 0.0005, train err2 = 0.1056,gen loss = 516.1666,test err = 0.0088
+(57024, 784)
+(57024,)
+Epoch 102, time = 3s, loss_lab = 0.0031, loss_unl = 0.3302, train err = 0.0007, train err2 = 0.1061,gen loss = 519.2278,test err = 0.0086
+(57024, 784)
+(57024,)
+Epoch 103, time = 3s, loss_lab = 0.0027, loss_unl = 0.3316, train err = 0.0005, train err2 = 0.1055,gen loss = 498.3583,test err = 0.0086
+(57024, 784)
+(57024,)
+Epoch 104, time = 3s, loss_lab = 0.0028, loss_unl = 0.3276, train err = 0.0004, train err2 = 0.1008,gen loss = 513.7817,test err = 0.0086
+(57024, 784)
+(57024,)
+Epoch 105, time = 3s, loss_lab = 0.0027, loss_unl = 0.3315, train err = 0.0006, train err2 = 0.1046,gen loss = 502.4620,test err = 0.0087
+(57024, 784)
+(57024,)
+Epoch 106, time = 3s, loss_lab = 0.0025, loss_unl = 0.3304, train err = 0.0005, train err2 = 0.1023,gen loss = 499.5412,test err = 0.0086
+(57024, 784)
+(57024,)
+Epoch 107, time = 3s, loss_lab = 0.0027, loss_unl = 0.3269, train err = 0.0005, train err2 = 0.1035,gen loss = 500.7893,test err = 0.0086
+(57024, 784)
+(57024,)
+Epoch 108, time = 3s, loss_lab = 0.0025, loss_unl = 0.3230, train err = 0.0004, train err2 = 0.0995,gen loss = 506.5354,test err = 0.0087
+(57024, 784)
+(57024,)
+Epoch 109, time = 3s, loss_lab = 0.0030, loss_unl = 0.3231, train err = 0.0008, train err2 = 0.0987,gen loss = 504.8893,test err = 0.0086
+(57024, 784)
+(57024,)
+Epoch 110, time = 3s, loss_lab = 0.0023, loss_unl = 0.3198, train err = 0.0004, train err2 = 0.0976,gen loss = 515.3702,test err = 0.0086
+(57024, 784)
+(57024,)
+Epoch 111, time = 3s, loss_lab = 0.0023, loss_unl = 0.3247, train err = 0.0004, train err2 = 0.0999,gen loss = 498.6344,test err = 0.0086
+(57024, 784)
+(57024,)
+Epoch 112, time = 3s, loss_lab = 0.0022, loss_unl = 0.3234, train err = 0.0004, train err2 = 0.0999,gen loss = 509.0485,test err = 0.0086
+(57024, 784)
+(57024,)
+Epoch 113, time = 3s, loss_lab = 0.0018, loss_unl = 0.3235, train err = 0.0003, train err2 = 0.1004,gen loss = 492.9660,test err = 0.0086
+(57024, 784)
+(57024,)
+Epoch 114, time = 3s, loss_lab = 0.0025, loss_unl = 0.3249, train err = 0.0006, train err2 = 0.1024,gen loss = 498.4389,test err = 0.0086
+(57024, 784)
+(57024,)
+Epoch 115, time = 3s, loss_lab = 0.0021, loss_unl = 0.3230, train err = 0.0003, train err2 = 0.1020,gen loss = 496.1172,test err = 0.0088
+(57024, 784)
+(57024,)
+Epoch 116, time = 3s, loss_lab = 0.0024, loss_unl = 0.3162, train err = 0.0004, train err2 = 0.1016,gen loss = 500.6531,test err = 0.0090
+(57024, 784)
+(57024,)
+Epoch 117, time = 3s, loss_lab = 0.0025, loss_unl = 0.3204, train err = 0.0005, train err2 = 0.1003,gen loss = 483.3528,test err = 0.0090
+(57024, 784)
+(57024,)
+Epoch 118, time = 3s, loss_lab = 0.0022, loss_unl = 0.3232, train err = 0.0004, train err2 = 0.1008,gen loss = 498.5452,test err = 0.0089
+(57024, 784)
+(57024,)
+Epoch 119, time = 3s, loss_lab = 0.0024, loss_unl = 0.3242, train err = 0.0005, train err2 = 0.1024,gen loss = 503.4723,test err = 0.0088
+(57928, 784)
+(57928,)
+Epoch 120, time = 3s, loss_lab = 0.0032, loss_unl = 0.3230, train err = 0.0006, train err2 = 0.1015,gen loss = 494.5698,test err = 0.0088
+(57928, 784)
+(57928,)
+Epoch 121, time = 3s, loss_lab = 0.0031, loss_unl = 0.3265, train err = 0.0007, train err2 = 0.1037,gen loss = 487.7718,test err = 0.0089
+(57928, 784)
+(57928,)
+Epoch 122, time = 3s, loss_lab = 0.0030, loss_unl = 0.3179, train err = 0.0006, train err2 = 0.1026,gen loss = 481.1738,test err = 0.0089
+(57928, 784)
+(57928,)
+Epoch 123, time = 3s, loss_lab = 0.0029, loss_unl = 0.3172, train err = 0.0006, train err2 = 0.1008,gen loss = 482.9661,test err = 0.0089
+(57928, 784)
+(57928,)
+Epoch 124, time = 3s, loss_lab = 0.0031, loss_unl = 0.3171, train err = 0.0007, train err2 = 0.0979,gen loss = 483.0276,test err = 0.0091
+(57928, 784)
+(57928,)
+Epoch 125, time = 3s, loss_lab = 0.0023, loss_unl = 0.3152, train err = 0.0005, train err2 = 0.1000,gen loss = 493.0960,test err = 0.0094
+(57928, 784)
+(57928,)
+Epoch 126, time = 3s, loss_lab = 0.0029, loss_unl = 0.3153, train err = 0.0006, train err2 = 0.0990,gen loss = 471.3426,test err = 0.0093
+(57928, 784)
+(57928,)
+Epoch 127, time = 3s, loss_lab = 0.0026, loss_unl = 0.3207, train err = 0.0005, train err2 = 0.1001,gen loss = 472.3120,test err = 0.0093
+(57928, 784)
+(57928,)
+Epoch 128, time = 3s, loss_lab = 0.0025, loss_unl = 0.3178, train err = 0.0005, train err2 = 0.1014,gen loss = 482.6893,test err = 0.0093
+(57928, 784)
+(57928,)
+Epoch 129, time = 3s, loss_lab = 0.0030, loss_unl = 0.3176, train err = 0.0007, train err2 = 0.1006,gen loss = 479.7371,test err = 0.0092
+(57928, 784)
+(57928,)
+Epoch 130, time = 3s, loss_lab = 0.0023, loss_unl = 0.3129, train err = 0.0004, train err2 = 0.0992,gen loss = 474.8847,test err = 0.0092
+(57928, 784)
+(57928,)
+Epoch 131, time = 3s, loss_lab = 0.0022, loss_unl = 0.3128, train err = 0.0004, train err2 = 0.0986,gen loss = 469.5530,test err = 0.0093
+(57928, 784)
+(57928,)
+Epoch 132, time = 3s, loss_lab = 0.0025, loss_unl = 0.3142, train err = 0.0005, train err2 = 0.1015,gen loss = 468.5898,test err = 0.0092
+(57928, 784)
+(57928,)
+Epoch 133, time = 3s, loss_lab = 0.0028, loss_unl = 0.3120, train err = 0.0007, train err2 = 0.0987,gen loss = 460.9985,test err = 0.0090
+(57928, 784)
+(57928,)
+Epoch 134, time = 3s, loss_lab = 0.0029, loss_unl = 0.3105, train err = 0.0007, train err2 = 0.0994,gen loss = 460.9564,test err = 0.0089
+(57928, 784)
+(57928,)
+Epoch 135, time = 3s, loss_lab = 0.0026, loss_unl = 0.3102, train err = 0.0006, train err2 = 0.0992,gen loss = 474.7726,test err = 0.0089
+(57928, 784)
+(57928,)
+Epoch 136, time = 3s, loss_lab = 0.0023, loss_unl = 0.3116, train err = 0.0004, train err2 = 0.0994,gen loss = 464.9603,test err = 0.0089
+(57928, 784)
+(57928,)
+Epoch 137, time = 3s, loss_lab = 0.0028, loss_unl = 0.3090, train err = 0.0006, train err2 = 0.0980,gen loss = 471.5675,test err = 0.0089
+(57928, 784)
+(57928,)
+Epoch 138, time = 3s, loss_lab = 0.0023, loss_unl = 0.3079, train err = 0.0005, train err2 = 0.0956,gen loss = 468.6442,test err = 0.0088
+(57928, 784)
+(57928,)
+Epoch 139, time = 3s, loss_lab = 0.0029, loss_unl = 0.3038, train err = 0.0006, train err2 = 0.0960,gen loss = 469.0337,test err = 0.0088
+(58272, 784)
+(58272,)
+Epoch 140, time = 3s, loss_lab = 0.0029, loss_unl = 0.3057, train err = 0.0005, train err2 = 0.0980,gen loss = 454.8515,test err = 0.0089
+(58272, 784)
+(58272,)
+Epoch 141, time = 3s, loss_lab = 0.0025, loss_unl = 0.3060, train err = 0.0005, train err2 = 0.0974,gen loss = 452.7321,test err = 0.0087
+(58272, 784)
+(58272,)
+Epoch 142, time = 3s, loss_lab = 0.0027, loss_unl = 0.3054, train err = 0.0006, train err2 = 0.0937,gen loss = 459.9322,test err = 0.0088
+(58272, 784)
+(58272,)
+Epoch 143, time = 3s, loss_lab = 0.0025, loss_unl = 0.3100, train err = 0.0005, train err2 = 0.0977,gen loss = 442.7673,test err = 0.0088
+(58272, 784)
+(58272,)
+Epoch 144, time = 3s, loss_lab = 0.0029, loss_unl = 0.3062, train err = 0.0006, train err2 = 0.0976,gen loss = 445.6983,test err = 0.0088
+(58272, 784)
+(58272,)
+Epoch 145, time = 3s, loss_lab = 0.0025, loss_unl = 0.3042, train err = 0.0006, train err2 = 0.0925,gen loss = 442.7190,test err = 0.0090
+(58272, 784)
+(58272,)
+Epoch 146, time = 3s, loss_lab = 0.0027, loss_unl = 0.3012, train err = 0.0006, train err2 = 0.0943,gen loss = 442.7833,test err = 0.0088
+(58272, 784)
+(58272,)
+Epoch 147, time = 3s, loss_lab = 0.0028, loss_unl = 0.3025, train err = 0.0005, train err2 = 0.0949,gen loss = 435.1746,test err = 0.0087
+(58272, 784)
+(58272,)
+Epoch 148, time = 3s, loss_lab = 0.0028, loss_unl = 0.2982, train err = 0.0005, train err2 = 0.0927,gen loss = 444.6957,test err = 0.0085
+(58272, 784)
+(58272,)
+Epoch 149, time = 3s, loss_lab = 0.0023, loss_unl = 0.3015, train err = 0.0005, train err2 = 0.0921,gen loss = 426.6723,test err = 0.0085
+(58272, 784)
+(58272,)
+Epoch 150, time = 3s, loss_lab = 0.0026, loss_unl = 0.3002, train err = 0.0005, train err2 = 0.0946,gen loss = 423.6921,test err = 0.0085
+(58272, 784)
+(58272,)
+Epoch 151, time = 3s, loss_lab = 0.0025, loss_unl = 0.2959, train err = 0.0005, train err2 = 0.0923,gen loss = 436.3876,test err = 0.0087
+(58272, 784)
+(58272,)
+Epoch 152, time = 3s, loss_lab = 0.0027, loss_unl = 0.3018, train err = 0.0006, train err2 = 0.0955,gen loss = 434.9548,test err = 0.0087
+(58272, 784)
+(58272,)
+Epoch 153, time = 3s, loss_lab = 0.0027, loss_unl = 0.2984, train err = 0.0006, train err2 = 0.0952,gen loss = 449.0122,test err = 0.0089
+(58272, 784)
+(58272,)
+Epoch 154, time = 3s, loss_lab = 0.0026, loss_unl = 0.2993, train err = 0.0005, train err2 = 0.0965,gen loss = 430.3933,test err = 0.0089
+(58272, 784)
+(58272,)
+Epoch 155, time = 3s, loss_lab = 0.0023, loss_unl = 0.3005, train err = 0.0004, train err2 = 0.0944,gen loss = 418.3845,test err = 0.0087
+(58272, 784)
+(58272,)
+Epoch 156, time = 3s, loss_lab = 0.0025, loss_unl = 0.2999, train err = 0.0005, train err2 = 0.0947,gen loss = 419.5070,test err = 0.0090
+(58272, 784)
+(58272,)
+Epoch 157, time = 3s, loss_lab = 0.0024, loss_unl = 0.2918, train err = 0.0006, train err2 = 0.0905,gen loss = 422.6846,test err = 0.0092
+(58272, 784)
+(58272,)
+Epoch 158, time = 3s, loss_lab = 0.0025, loss_unl = 0.2956, train err = 0.0005, train err2 = 0.0925,gen loss = 424.0612,test err = 0.0092
+(58272, 784)
+(58272,)
+Epoch 159, time = 3s, loss_lab = 0.0024, loss_unl = 0.2972, train err = 0.0004, train err2 = 0.0945,gen loss = 426.8213,test err = 0.0091
+(58556, 784)
+(58556,)
+Epoch 160, time = 3s, loss_lab = 0.0028, loss_unl = 0.2961, train err = 0.0006, train err2 = 0.0953,gen loss = 420.9091,test err = 0.0091
+(58556, 784)
+(58556,)
+Epoch 161, time = 3s, loss_lab = 0.0026, loss_unl = 0.2972, train err = 0.0006, train err2 = 0.0937,gen loss = 421.4778,test err = 0.0091
+(58556, 784)
+(58556,)
+Epoch 162, time = 3s, loss_lab = 0.0026, loss_unl = 0.2902, train err = 0.0005, train err2 = 0.0894,gen loss = 427.4045,test err = 0.0090
+(58556, 784)
+(58556,)
+Epoch 163, time = 3s, loss_lab = 0.0030, loss_unl = 0.2894, train err = 0.0005, train err2 = 0.0919,gen loss = 430.0752,test err = 0.0089
+(58556, 784)
+(58556,)
+Epoch 164, time = 3s, loss_lab = 0.0024, loss_unl = 0.2928, train err = 0.0005, train err2 = 0.0919,gen loss = 425.9180,test err = 0.0088
+(58556, 784)
+(58556,)
+Epoch 165, time = 3s, loss_lab = 0.0026, loss_unl = 0.2937, train err = 0.0006, train err2 = 0.0922,gen loss = 428.7914,test err = 0.0087
+(58556, 784)
+(58556,)
+Epoch 166, time = 3s, loss_lab = 0.0026, loss_unl = 0.2961, train err = 0.0006, train err2 = 0.0941,gen loss = 421.4803,test err = 0.0086
+(58556, 784)
+(58556,)
+Epoch 167, time = 3s, loss_lab = 0.0026, loss_unl = 0.2929, train err = 0.0006, train err2 = 0.0937,gen loss = 419.4680,test err = 0.0085
+(58556, 784)
+(58556,)
+Epoch 168, time = 3s, loss_lab = 0.0021, loss_unl = 0.2944, train err = 0.0004, train err2 = 0.0905,gen loss = 411.6325,test err = 0.0086
+(58556, 784)
+(58556,)
+Epoch 169, time = 3s, loss_lab = 0.0023, loss_unl = 0.2924, train err = 0.0004, train err2 = 0.0898,gen loss = 409.7081,test err = 0.0087
+(58556, 784)
+(58556,)
+Epoch 170, time = 3s, loss_lab = 0.0027, loss_unl = 0.2881, train err = 0.0004, train err2 = 0.0888,gen loss = 426.6505,test err = 0.0087
+(58556, 784)
+(58556,)
+Epoch 171, time = 3s, loss_lab = 0.0023, loss_unl = 0.2874, train err = 0.0005, train err2 = 0.0891,gen loss = 413.5870,test err = 0.0088
+(58556, 784)
+(58556,)
+Epoch 172, time = 3s, loss_lab = 0.0023, loss_unl = 0.2872, train err = 0.0005, train err2 = 0.0894,gen loss = 415.6917,test err = 0.0088
+(58556, 784)
+(58556,)
+Epoch 173, time = 3s, loss_lab = 0.0024, loss_unl = 0.2898, train err = 0.0005, train err2 = 0.0893,gen loss = 399.5066,test err = 0.0088
+(58556, 784)
+(58556,)
+Epoch 174, time = 3s, loss_lab = 0.0024, loss_unl = 0.2869, train err = 0.0005, train err2 = 0.0909,gen loss = 410.2992,test err = 0.0088
+(58556, 784)
+(58556,)
+Epoch 175, time = 3s, loss_lab = 0.0022, loss_unl = 0.2869, train err = 0.0005, train err2 = 0.0886,gen loss = 408.5675,test err = 0.0086
+(58556, 784)
+(58556,)
+Epoch 176, time = 3s, loss_lab = 0.0026, loss_unl = 0.2888, train err = 0.0004, train err2 = 0.0893,gen loss = 391.6399,test err = 0.0087
+(58556, 784)
+(58556,)
+Epoch 177, time = 3s, loss_lab = 0.0027, loss_unl = 0.2852, train err = 0.0006, train err2 = 0.0906,gen loss = 401.4999,test err = 0.0088
+(58556, 784)
+(58556,)
+Epoch 178, time = 3s, loss_lab = 0.0024, loss_unl = 0.2884, train err = 0.0005, train err2 = 0.0901,gen loss = 407.0247,test err = 0.0088
+(58556, 784)
+(58556,)
+Epoch 179, time = 3s, loss_lab = 0.0024, loss_unl = 0.2856, train err = 0.0006, train err2 = 0.0879,gen loss = 404.8703,test err = 0.0087
+(58745, 784)
+(58745,)
+Epoch 180, time = 3s, loss_lab = 0.0028, loss_unl = 0.2843, train err = 0.0005, train err2 = 0.0877,gen loss = 404.3103,test err = 0.0088
+(58745, 784)
+(58745,)
+Epoch 181, time = 3s, loss_lab = 0.0023, loss_unl = 0.2819, train err = 0.0005, train err2 = 0.0879,gen loss = 403.9642,test err = 0.0087
+(58745, 784)
+(58745,)
+Epoch 182, time = 3s, loss_lab = 0.0027, loss_unl = 0.2816, train err = 0.0006, train err2 = 0.0885,gen loss = 406.2229,test err = 0.0087
+(58745, 784)
+(58745,)
+Epoch 183, time = 3s, loss_lab = 0.0032, loss_unl = 0.2815, train err = 0.0008, train err2 = 0.0884,gen loss = 408.0575,test err = 0.0086
+(58745, 784)
+(58745,)
+Epoch 184, time = 3s, loss_lab = 0.0027, loss_unl = 0.2815, train err = 0.0007, train err2 = 0.0903,gen loss = 394.2301,test err = 0.0086
+(58745, 784)
+(58745,)
+Epoch 185, time = 3s, loss_lab = 0.0026, loss_unl = 0.2846, train err = 0.0006, train err2 = 0.0881,gen loss = 403.1041,test err = 0.0085
+(58745, 784)
+(58745,)
+Epoch 186, time = 3s, loss_lab = 0.0024, loss_unl = 0.2831, train err = 0.0004, train err2 = 0.0866,gen loss = 408.4653,test err = 0.0083
+(58745, 784)
+(58745,)
+Epoch 187, time = 3s, loss_lab = 0.0021, loss_unl = 0.2829, train err = 0.0004, train err2 = 0.0878,gen loss = 396.8946,test err = 0.0083
+(58745, 784)
+(58745,)
+Epoch 188, time = 3s, loss_lab = 0.0020, loss_unl = 0.2776, train err = 0.0004, train err2 = 0.0882,gen loss = 406.7924,test err = 0.0082
+(58745, 784)
+(58745,)
+Epoch 189, time = 3s, loss_lab = 0.0025, loss_unl = 0.2809, train err = 0.0005, train err2 = 0.0896,gen loss = 399.7949,test err = 0.0081
+(58745, 784)
+(58745,)
+Epoch 190, time = 3s, loss_lab = 0.0025, loss_unl = 0.2744, train err = 0.0007, train err2 = 0.0876,gen loss = 399.6879,test err = 0.0082
+(58745, 784)
+(58745,)
+Epoch 191, time = 3s, loss_lab = 0.0022, loss_unl = 0.2812, train err = 0.0005, train err2 = 0.0858,gen loss = 401.3872,test err = 0.0083
+(58745, 784)
+(58745,)
+Epoch 192, time = 3s, loss_lab = 0.0020, loss_unl = 0.2818, train err = 0.0004, train err2 = 0.0890,gen loss = 401.7341,test err = 0.0084
+(58745, 784)
+(58745,)
+Epoch 193, time = 3s, loss_lab = 0.0024, loss_unl = 0.2827, train err = 0.0006, train err2 = 0.0911,gen loss = 393.2103,test err = 0.0082
+(58745, 784)
+(58745,)
+Epoch 194, time = 3s, loss_lab = 0.0020, loss_unl = 0.2839, train err = 0.0003, train err2 = 0.0892,gen loss = 388.8590,test err = 0.0082
+(58745, 784)
+(58745,)
+Epoch 195, time = 3s, loss_lab = 0.0022, loss_unl = 0.2804, train err = 0.0005, train err2 = 0.0881,gen loss = 382.0357,test err = 0.0081
+(58745, 784)
+(58745,)
+Epoch 196, time = 3s, loss_lab = 0.0026, loss_unl = 0.2809, train err = 0.0006, train err2 = 0.0899,gen loss = 377.1693,test err = 0.0081
+(58745, 784)
+(58745,)
+Epoch 197, time = 3s, loss_lab = 0.0022, loss_unl = 0.2828, train err = 0.0004, train err2 = 0.0900,gen loss = 381.1088,test err = 0.0080
+(58745, 784)
+(58745,)
+Epoch 198, time = 3s, loss_lab = 0.0023, loss_unl = 0.2814, train err = 0.0005, train err2 = 0.0877,gen loss = 382.1191,test err = 0.0079
+(58745, 784)
+(58745,)
+Epoch 199, time = 3s, loss_lab = 0.0023, loss_unl = 0.2802, train err = 0.0005, train err2 = 0.0872,gen loss = 388.6759,test err = 0.0079
+(58831, 784)
+(58831,)
+Epoch 200, time = 3s, loss_lab = 0.0024, loss_unl = 0.2756, train err = 0.0005, train err2 = 0.0860,gen loss = 397.0027,test err = 0.0078
+(58831, 784)
+(58831,)
+Epoch 201, time = 3s, loss_lab = 0.0024, loss_unl = 0.2760, train err = 0.0005, train err2 = 0.0854,gen loss = 390.7877,test err = 0.0078
+(58831, 784)
+(58831,)
+Epoch 202, time = 3s, loss_lab = 0.0028, loss_unl = 0.2732, train err = 0.0007, train err2 = 0.0850,gen loss = 390.3557,test err = 0.0079
+(58831, 784)
+(58831,)
+Epoch 203, time = 3s, loss_lab = 0.0024, loss_unl = 0.2755, train err = 0.0005, train err2 = 0.0875,gen loss = 383.0998,test err = 0.0078
+(58831, 784)
+(58831,)
+Epoch 204, time = 3s, loss_lab = 0.0025, loss_unl = 0.2716, train err = 0.0006, train err2 = 0.0859,gen loss = 382.5587,test err = 0.0079
+(58831, 784)
+(58831,)
+Epoch 205, time = 3s, loss_lab = 0.0027, loss_unl = 0.2680, train err = 0.0007, train err2 = 0.0838,gen loss = 397.8003,test err = 0.0079
+(58831, 784)
+(58831,)
+Epoch 206, time = 3s, loss_lab = 0.0024, loss_unl = 0.2731, train err = 0.0006, train err2 = 0.0842,gen loss = 379.4591,test err = 0.0080
+(58831, 784)
+(58831,)
+Epoch 207, time = 3s, loss_lab = 0.0021, loss_unl = 0.2734, train err = 0.0005, train err2 = 0.0863,gen loss = 385.1172,test err = 0.0080
+(58831, 784)
+(58831,)
+Epoch 208, time = 3s, loss_lab = 0.0020, loss_unl = 0.2711, train err = 0.0004, train err2 = 0.0876,gen loss = 394.0690,test err = 0.0082
+(58831, 784)
+(58831,)
+Epoch 209, time = 3s, loss_lab = 0.0023, loss_unl = 0.2748, train err = 0.0005, train err2 = 0.0865,gen loss = 375.4649,test err = 0.0080
+(58831, 784)
+(58831,)
+Epoch 210, time = 3s, loss_lab = 0.0021, loss_unl = 0.2736, train err = 0.0004, train err2 = 0.0906,gen loss = 381.7979,test err = 0.0080
+(58831, 784)
+(58831,)
+Epoch 211, time = 3s, loss_lab = 0.0025, loss_unl = 0.2707, train err = 0.0005, train err2 = 0.0880,gen loss = 371.5159,test err = 0.0081
+(58831, 784)
+(58831,)
+Epoch 212, time = 3s, loss_lab = 0.0025, loss_unl = 0.2717, train err = 0.0006, train err2 = 0.0896,gen loss = 371.0239,test err = 0.0079
+(58831, 784)
+(58831,)
+Epoch 213, time = 3s, loss_lab = 0.0023, loss_unl = 0.2739, train err = 0.0004, train err2 = 0.0876,gen loss = 376.7201,test err = 0.0078
+(58831, 784)
+(58831,)
+Epoch 214, time = 3s, loss_lab = 0.0023, loss_unl = 0.2745, train err = 0.0005, train err2 = 0.0869,gen loss = 380.5019,test err = 0.0080
+(58831, 784)
+(58831,)
+Epoch 215, time = 3s, loss_lab = 0.0024, loss_unl = 0.2703, train err = 0.0005, train err2 = 0.0880,gen loss = 371.7888,test err = 0.0081
+(58831, 784)
+(58831,)
+Epoch 216, time = 3s, loss_lab = 0.0022, loss_unl = 0.2713, train err = 0.0005, train err2 = 0.0882,gen loss = 369.0065,test err = 0.0082
+(58831, 784)
+(58831,)
+Epoch 217, time = 3s, loss_lab = 0.0021, loss_unl = 0.2686, train err = 0.0005, train err2 = 0.0867,gen loss = 374.3029,test err = 0.0081
+(58831, 784)
+(58831,)
+Epoch 218, time = 3s, loss_lab = 0.0023, loss_unl = 0.2736, train err = 0.0005, train err2 = 0.0868,gen loss = 363.4370,test err = 0.0081
+(58831, 784)
+(58831,)
+Epoch 219, time = 3s, loss_lab = 0.0021, loss_unl = 0.2720, train err = 0.0004, train err2 = 0.0859,gen loss = 359.8413,test err = 0.0080
+(58971, 784)
+(58971,)
+Epoch 220, time = 3s, loss_lab = 0.0024, loss_unl = 0.2669, train err = 0.0006, train err2 = 0.0851,gen loss = 383.5427,test err = 0.0079
+(58971, 784)
+(58971,)
+Epoch 221, time = 3s, loss_lab = 0.0021, loss_unl = 0.2670, train err = 0.0004, train err2 = 0.0861,gen loss = 360.9311,test err = 0.0078
+(58971, 784)
+(58971,)
+Epoch 222, time = 3s, loss_lab = 0.0021, loss_unl = 0.2666, train err = 0.0004, train err2 = 0.0820,gen loss = 359.3978,test err = 0.0078
+(58971, 784)
+(58971,)
+Epoch 223, time = 3s, loss_lab = 0.0025, loss_unl = 0.2709, train err = 0.0005, train err2 = 0.0867,gen loss = 357.3308,test err = 0.0077
+(58971, 784)
+(58971,)
+Epoch 224, time = 3s, loss_lab = 0.0026, loss_unl = 0.2714, train err = 0.0006, train err2 = 0.0879,gen loss = 352.0042,test err = 0.0076
+(58971, 784)
+(58971,)
+Epoch 225, time = 3s, loss_lab = 0.0025, loss_unl = 0.2733, train err = 0.0005, train err2 = 0.0891,gen loss = 362.7836,test err = 0.0076
+(58971, 784)
+(58971,)
+Epoch 226, time = 3s, loss_lab = 0.0024, loss_unl = 0.2700, train err = 0.0006, train err2 = 0.0846,gen loss = 363.1022,test err = 0.0077
+(58971, 784)
+(58971,)
+Epoch 227, time = 3s, loss_lab = 0.0024, loss_unl = 0.2702, train err = 0.0006, train err2 = 0.0882,gen loss = 361.2166,test err = 0.0078
+(58971, 784)
+(58971,)
+Epoch 228, time = 3s, loss_lab = 0.0016, loss_unl = 0.2695, train err = 0.0003, train err2 = 0.0831,gen loss = 369.6917,test err = 0.0077
+(58971, 784)
+(58971,)
+Epoch 229, time = 3s, loss_lab = 0.0024, loss_unl = 0.2682, train err = 0.0006, train err2 = 0.0849,gen loss = 371.2256,test err = 0.0077
+(58971, 784)
+(58971,)
+Epoch 230, time = 3s, loss_lab = 0.0026, loss_unl = 0.2647, train err = 0.0005, train err2 = 0.0840,gen loss = 377.8630,test err = 0.0078
+(58971, 784)
+(58971,)
+Epoch 231, time = 3s, loss_lab = 0.0024, loss_unl = 0.2676, train err = 0.0004, train err2 = 0.0838,gen loss = 366.9096,test err = 0.0078
+(58971, 784)
+(58971,)
+Epoch 232, time = 3s, loss_lab = 0.0020, loss_unl = 0.2598, train err = 0.0003, train err2 = 0.0803,gen loss = 364.7735,test err = 0.0077
+(58971, 784)
+(58971,)
+Epoch 233, time = 3s, loss_lab = 0.0024, loss_unl = 0.2631, train err = 0.0006, train err2 = 0.0794,gen loss = 363.0137,test err = 0.0077
+(58971, 784)
+(58971,)
+Epoch 234, time = 3s, loss_lab = 0.0025, loss_unl = 0.2660, train err = 0.0006, train err2 = 0.0821,gen loss = 359.8148,test err = 0.0078
+(58971, 784)
+(58971,)
+Epoch 235, time = 3s, loss_lab = 0.0023, loss_unl = 0.2624, train err = 0.0005, train err2 = 0.0833,gen loss = 349.9365,test err = 0.0079
+(58971, 784)
+(58971,)
+Epoch 236, time = 3s, loss_lab = 0.0022, loss_unl = 0.2626, train err = 0.0004, train err2 = 0.0820,gen loss = 353.4311,test err = 0.0079
+(58971, 784)
+(58971,)
+Epoch 237, time = 3s, loss_lab = 0.0021, loss_unl = 0.2606, train err = 0.0004, train err2 = 0.0821,gen loss = 357.9833,test err = 0.0079
+(58971, 784)
+(58971,)
+Epoch 238, time = 3s, loss_lab = 0.0023, loss_unl = 0.2580, train err = 0.0005, train err2 = 0.0819,gen loss = 351.3328,test err = 0.0079
+(58971, 784)
+(58971,)
+Epoch 239, time = 3s, loss_lab = 0.0023, loss_unl = 0.2570, train err = 0.0006, train err2 = 0.0802,gen loss = 343.8975,test err = 0.0079
+(59057, 784)
+(59057,)
+Epoch 240, time = 3s, loss_lab = 0.0019, loss_unl = 0.2545, train err = 0.0003, train err2 = 0.0793,gen loss = 348.5051,test err = 0.0079
+(59057, 784)
+(59057,)
+Epoch 241, time = 3s, loss_lab = 0.0026, loss_unl = 0.2542, train err = 0.0006, train err2 = 0.0789,gen loss = 352.4183,test err = 0.0079
+(59057, 784)
+(59057,)
+Epoch 242, time = 3s, loss_lab = 0.0023, loss_unl = 0.2549, train err = 0.0004, train err2 = 0.0811,gen loss = 357.0838,test err = 0.0079
+(59057, 784)
+(59057,)
+Epoch 243, time = 3s, loss_lab = 0.0024, loss_unl = 0.2547, train err = 0.0005, train err2 = 0.0807,gen loss = 353.7482,test err = 0.0079
+(59057, 784)
+(59057,)
+Epoch 244, time = 3s, loss_lab = 0.0023, loss_unl = 0.2506, train err = 0.0005, train err2 = 0.0757,gen loss = 350.0663,test err = 0.0078
+(59057, 784)
+(59057,)
+Epoch 245, time = 3s, loss_lab = 0.0023, loss_unl = 0.2514, train err = 0.0005, train err2 = 0.0801,gen loss = 357.0703,test err = 0.0078
+(59057, 784)
+(59057,)
+Epoch 246, time = 3s, loss_lab = 0.0024, loss_unl = 0.2500, train err = 0.0004, train err2 = 0.0807,gen loss = 356.7722,test err = 0.0077
+(59057, 784)
+(59057,)
+Epoch 247, time = 3s, loss_lab = 0.0021, loss_unl = 0.2547, train err = 0.0004, train err2 = 0.0786,gen loss = 343.4597,test err = 0.0077
+(59057, 784)
+(59057,)
+Epoch 248, time = 3s, loss_lab = 0.0023, loss_unl = 0.2491, train err = 0.0004, train err2 = 0.0784,gen loss = 358.6546,test err = 0.0078
+(59057, 784)
+(59057,)
+Epoch 249, time = 3s, loss_lab = 0.0021, loss_unl = 0.2537, train err = 0.0005, train err2 = 0.0835,gen loss = 356.1481,test err = 0.0078
+(59057, 784)
+(59057,)
+Epoch 250, time = 3s, loss_lab = 0.0019, loss_unl = 0.2537, train err = 0.0004, train err2 = 0.0804,gen loss = 349.9836,test err = 0.0079
+(59057, 784)
+(59057,)
+Epoch 251, time = 3s, loss_lab = 0.0022, loss_unl = 0.2546, train err = 0.0005, train err2 = 0.0794,gen loss = 345.3488,test err = 0.0079
+(59057, 784)
+(59057,)
+Epoch 252, time = 3s, loss_lab = 0.0018, loss_unl = 0.2535, train err = 0.0004, train err2 = 0.0820,gen loss = 364.5939,test err = 0.0079
+(59057, 784)
+(59057,)
+Epoch 253, time = 3s, loss_lab = 0.0021, loss_unl = 0.2560, train err = 0.0005, train err2 = 0.0831,gen loss = 350.3989,test err = 0.0078
+(59057, 784)
+(59057,)
+Epoch 254, time = 3s, loss_lab = 0.0022, loss_unl = 0.2522, train err = 0.0004, train err2 = 0.0812,gen loss = 350.3985,test err = 0.0078
+(59057, 784)
+(59057,)
+Epoch 255, time = 3s, loss_lab = 0.0022, loss_unl = 0.2541, train err = 0.0004, train err2 = 0.0819,gen loss = 340.1265,test err = 0.0079
+(59057, 784)
+(59057,)
+Epoch 256, time = 3s, loss_lab = 0.0018, loss_unl = 0.2552, train err = 0.0004, train err2 = 0.0828,gen loss = 348.1775,test err = 0.0078
+(59057, 784)
+(59057,)
+Epoch 257, time = 3s, loss_lab = 0.0022, loss_unl = 0.2600, train err = 0.0005, train err2 = 0.0829,gen loss = 337.6418,test err = 0.0078
+(59057, 784)
+(59057,)
+Epoch 258, time = 3s, loss_lab = 0.0025, loss_unl = 0.2578, train err = 0.0007, train err2 = 0.0833,gen loss = 342.1721,test err = 0.0079
+(59057, 784)
+(59057,)
+Epoch 259, time = 3s, loss_lab = 0.0023, loss_unl = 0.2538, train err = 0.0005, train err2 = 0.0784,gen loss = 337.4834,test err = 0.0079
+(59138, 784)
+(59138,)
+Epoch 260, time = 3s, loss_lab = 0.0025, loss_unl = 0.2535, train err = 0.0005, train err2 = 0.0813,gen loss = 343.2094,test err = 0.0080
+(59138, 784)
+(59138,)
+Epoch 261, time = 3s, loss_lab = 0.0021, loss_unl = 0.2559, train err = 0.0004, train err2 = 0.0794,gen loss = 338.4073,test err = 0.0078
+(59138, 784)
+(59138,)
+Epoch 262, time = 3s, loss_lab = 0.0022, loss_unl = 0.2519, train err = 0.0004, train err2 = 0.0800,gen loss = 338.4330,test err = 0.0079
+(59138, 784)
+(59138,)
+Epoch 263, time = 3s, loss_lab = 0.0021, loss_unl = 0.2502, train err = 0.0004, train err2 = 0.0795,gen loss = 340.9159,test err = 0.0077
+(59138, 784)
+(59138,)
+Epoch 264, time = 3s, loss_lab = 0.0023, loss_unl = 0.2556, train err = 0.0005, train err2 = 0.0793,gen loss = 339.7374,test err = 0.0077
+(59138, 784)
+(59138,)
+Epoch 265, time = 3s, loss_lab = 0.0023, loss_unl = 0.2600, train err = 0.0005, train err2 = 0.0806,gen loss = 329.0723,test err = 0.0077
+(59138, 784)
+(59138,)
+Epoch 266, time = 3s, loss_lab = 0.0023, loss_unl = 0.2563, train err = 0.0005, train err2 = 0.0801,gen loss = 336.6681,test err = 0.0077
+(59138, 784)
+(59138,)
+Epoch 267, time = 3s, loss_lab = 0.0023, loss_unl = 0.2588, train err = 0.0005, train err2 = 0.0799,gen loss = 338.3773,test err = 0.0077
+(59138, 784)
+(59138,)
+Epoch 268, time = 3s, loss_lab = 0.0021, loss_unl = 0.2526, train err = 0.0005, train err2 = 0.0799,gen loss = 333.1912,test err = 0.0077
+(59138, 784)
+(59138,)
+Epoch 269, time = 3s, loss_lab = 0.0021, loss_unl = 0.2523, train err = 0.0005, train err2 = 0.0774,gen loss = 342.3929,test err = 0.0075
+(59138, 784)
+(59138,)
+Epoch 270, time = 3s, loss_lab = 0.0022, loss_unl = 0.2541, train err = 0.0004, train err2 = 0.0804,gen loss = 342.8790,test err = 0.0075
+(59138, 784)
+(59138,)
+Epoch 271, time = 3s, loss_lab = 0.0022, loss_unl = 0.2568, train err = 0.0005, train err2 = 0.0833,gen loss = 330.3371,test err = 0.0076
+(59138, 784)
+(59138,)
+Epoch 272, time = 3s, loss_lab = 0.0022, loss_unl = 0.2520, train err = 0.0004, train err2 = 0.0795,gen loss = 337.4616,test err = 0.0079
+(59138, 784)
+(59138,)
+Epoch 273, time = 3s, loss_lab = 0.0017, loss_unl = 0.2524, train err = 0.0004, train err2 = 0.0807,gen loss = 335.5179,test err = 0.0078
+(59138, 784)
+(59138,)
+Epoch 274, time = 3s, loss_lab = 0.0023, loss_unl = 0.2531, train err = 0.0005, train err2 = 0.0774,gen loss = 340.8424,test err = 0.0079
+(59138, 784)
+(59138,)
+Epoch 275, time = 3s, loss_lab = 0.0021, loss_unl = 0.2530, train err = 0.0004, train err2 = 0.0796,gen loss = 330.8972,test err = 0.0077
+(59138, 784)
+(59138,)
+Epoch 276, time = 3s, loss_lab = 0.0026, loss_unl = 0.2520, train err = 0.0006, train err2 = 0.0805,gen loss = 344.7999,test err = 0.0079
+(59138, 784)
+(59138,)
+Epoch 277, time = 3s, loss_lab = 0.0023, loss_unl = 0.2501, train err = 0.0005, train err2 = 0.0802,gen loss = 343.6518,test err = 0.0079
+(59138, 784)
+(59138,)
+Epoch 278, time = 3s, loss_lab = 0.0024, loss_unl = 0.2484, train err = 0.0005, train err2 = 0.0784,gen loss = 337.9298,test err = 0.0079
+(59138, 784)
+(59138,)
+Epoch 279, time = 3s, loss_lab = 0.0022, loss_unl = 0.2470, train err = 0.0005, train err2 = 0.0768,gen loss = 338.1312,test err = 0.0077
+(59215, 784)
+(59215,)
+Epoch 280, time = 3s, loss_lab = 0.0025, loss_unl = 0.2476, train err = 0.0005, train err2 = 0.0798,gen loss = 332.2433,test err = 0.0076
+(59215, 784)
+(59215,)
+Epoch 281, time = 3s, loss_lab = 0.0026, loss_unl = 0.2474, train err = 0.0006, train err2 = 0.0770,gen loss = 328.3512,test err = 0.0076
+(59215, 784)
+(59215,)
+Epoch 282, time = 3s, loss_lab = 0.0023, loss_unl = 0.2454, train err = 0.0005, train err2 = 0.0777,gen loss = 334.6350,test err = 0.0076
+(59215, 784)
+(59215,)
+Epoch 283, time = 3s, loss_lab = 0.0022, loss_unl = 0.2485, train err = 0.0004, train err2 = 0.0761,gen loss = 332.9123,test err = 0.0077
+(59215, 784)
+(59215,)
+Epoch 284, time = 3s, loss_lab = 0.0021, loss_unl = 0.2472, train err = 0.0005, train err2 = 0.0769,gen loss = 335.5157,test err = 0.0077
+(59215, 784)
+(59215,)
+Epoch 285, time = 3s, loss_lab = 0.0021, loss_unl = 0.2500, train err = 0.0004, train err2 = 0.0784,gen loss = 330.1860,test err = 0.0074
+(59215, 784)
+(59215,)
+Epoch 286, time = 3s, loss_lab = 0.0020, loss_unl = 0.2463, train err = 0.0003, train err2 = 0.0803,gen loss = 316.3808,test err = 0.0074
+(59215, 784)
+(59215,)
+Epoch 287, time = 3s, loss_lab = 0.0018, loss_unl = 0.2467, train err = 0.0004, train err2 = 0.0784,gen loss = 327.9876,test err = 0.0074
+(59215, 784)
+(59215,)
+Epoch 288, time = 3s, loss_lab = 0.0019, loss_unl = 0.2451, train err = 0.0005, train err2 = 0.0796,gen loss = 330.5466,test err = 0.0075
+(59215, 784)
+(59215,)
+Epoch 289, time = 3s, loss_lab = 0.0023, loss_unl = 0.2470, train err = 0.0005, train err2 = 0.0796,gen loss = 329.4941,test err = 0.0075
+(59215, 784)
+(59215,)
+Epoch 290, time = 3s, loss_lab = 0.0019, loss_unl = 0.2430, train err = 0.0003, train err2 = 0.0773,gen loss = 323.0618,test err = 0.0076
+(59215, 784)
+(59215,)
+Epoch 291, time = 3s, loss_lab = 0.0022, loss_unl = 0.2423, train err = 0.0005, train err2 = 0.0768,gen loss = 318.4287,test err = 0.0076
+(59215, 784)
+(59215,)
+Epoch 292, time = 3s, loss_lab = 0.0020, loss_unl = 0.2466, train err = 0.0004, train err2 = 0.0790,gen loss = 328.0835,test err = 0.0075
+(59215, 784)
+(59215,)
+Epoch 293, time = 3s, loss_lab = 0.0022, loss_unl = 0.2516, train err = 0.0005, train err2 = 0.0786,gen loss = 321.5474,test err = 0.0076
+(59215, 784)
+(59215,)
+Epoch 294, time = 3s, loss_lab = 0.0016, loss_unl = 0.2481, train err = 0.0004, train err2 = 0.0803,gen loss = 325.9817,test err = 0.0076
+(59215, 784)
+(59215,)
+Epoch 295, time = 3s, loss_lab = 0.0021, loss_unl = 0.2460, train err = 0.0004, train err2 = 0.0801,gen loss = 335.8255,test err = 0.0076
+(59215, 784)
+(59215,)
+Epoch 296, time = 3s, loss_lab = 0.0017, loss_unl = 0.2481, train err = 0.0003, train err2 = 0.0803,gen loss = 323.4350,test err = 0.0077
+(59215, 784)
+(59215,)
+Epoch 297, time = 3s, loss_lab = 0.0021, loss_unl = 0.2495, train err = 0.0005, train err2 = 0.0804,gen loss = 324.6990,test err = 0.0076
+(59215, 784)
+(59215,)
+Epoch 298, time = 3s, loss_lab = 0.0021, loss_unl = 0.2496, train err = 0.0005, train err2 = 0.0775,gen loss = 318.5124,test err = 0.0075
+(59215, 784)
+(59215,)
+Epoch 299, time = 3s, loss_lab = 0.0018, loss_unl = 0.2470, train err = 0.0005, train err2 = 0.0792,gen loss = 320.2781,test err = 0.0075
+
