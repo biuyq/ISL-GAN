@@ -23,8 +23,8 @@ factor_M = 0.0
 LAMBDA_2 = 2.0 #alpha
 prediction_decay = 0.6 #beta  
 parser = argparse.ArgumentParser()
-parser.add_argument('--seed', default=123)
-parser.add_argument('--seed_data', default=123)
+parser.add_argument('--seed', default=2)
+parser.add_argument('--seed_data', default=2)
 parser.add_argument('--count', default=400)
 parser.add_argument('--batch_size', default=100)
 parser.add_argument('--unlabeled_weight', type=float, default=2.0) #lambda
