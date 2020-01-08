@@ -25,7 +25,7 @@ prediction_decay = 0.6 #beta
 parser = argparse.ArgumentParser()
 parser.add_argument('--seed', default=2)
 parser.add_argument('--seed_data', default=2)
-parser.add_argument('--count', default=400)
+parser.add_argument('--count', default=100)
 parser.add_argument('--batch_size', default=100)
 parser.add_argument('--unlabeled_weight', type=float, default=2.0) #lambda
 parser.add_argument('--learning_rate', type=float, default=0.0003)# learning rate, no decay
