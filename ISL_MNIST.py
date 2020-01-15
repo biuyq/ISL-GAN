@@ -189,7 +189,7 @@ for epoch in range(300):  # 300 epochs
 
 
 
-    if epoch >= 100  and epoch%20 ==0:  # after 500 epochs, for every 100 epoch, change dataset.
+    if epoch >= 100  and epoch%20 ==0:  # after 100 epochs, for every 20 epoch, change dataset.
         txs_new = txs
         tys_new = tys
         tempx = []
