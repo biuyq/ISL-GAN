@@ -257,7 +257,7 @@ for epoch in range(1200): #no learning rate decay. More epochs may give better r
 
 
 
-    if epoch >= 400  and epoch%20 ==0:  # after 500 epochs, for every 100 epoch, change dataset.
+    if epoch >= 400  and epoch%20 ==0:  # after 400 epochs, for every 20 epoch, change dataset.
         #LAMBDA_2_dis = (LAMBDA_2-1)*(1.0-(epoch-500.0)/(1500.0-500.0))+1
         print(LAMBDA_2_dis)
         #thrd = thrd - 0.005
