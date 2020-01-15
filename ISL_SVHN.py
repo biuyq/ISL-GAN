@@ -248,7 +248,7 @@ for epoch in range(1200): #no learning rate decay. More epochs may give better r
     trainx_unl2 = []
 
 
-    if epoch >= 400  and epoch%20 ==0:  # after 500 epochs, for every 100 epoch, change dataset.
+    if epoch >= 400  and epoch%20 ==0:  # after 400 epochs, for every 20 epoch, change dataset.
         txs_new = txs
         tys_new = tys
         #for  ite in range(training_targets3.shape[0]):
